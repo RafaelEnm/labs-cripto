@@ -1,4 +1,4 @@
-# labs-cripto
+# Lab 1
 Canal Encubierto ICMP con Cifrado César:
 Prueba de concepto de un canal encubierto de datos que utiliza paquetes ICMP (ping) para enviar un mensaje cifrado con el algoritmo César.
 
